@@ -1,4 +1,4 @@
-# MATH4010 - Final Project - Group 6
+# MATH4010 - Final Project - Group C
 
 ## Overview
 
