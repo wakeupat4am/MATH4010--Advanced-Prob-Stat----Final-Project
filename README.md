@@ -114,3 +114,15 @@ Choose a bin width `Delta` and use the same `Delta` for all `20` clips. For each
 - The code package should reproduce the computations, experiments, and results reported in the written report
 - The slide deck should focus on data collection and processing, methodology, and experimental results
 - The poster should summarize the dataset, methodology, and key results
+
+## Run Note
+
+To run all three notebooks successfully:
+
+- Install the required packages with `pip install -r requirements.txt`
+- Open and run:
+  - `Problem & Visualization/Problem 1/Problem_1.ipynb`
+  - `Problem & Visualization/Problem 2/Problem_2.ipynb`
+  - `Problem & Visualization/Problem 3/Problem_3.ipynb`
+- Question 3 is configured to use the local audio dataset in `Data/q3/`
+- If you use Jupyter or VS Code, restart the kernel and run all cells from top to bottom
