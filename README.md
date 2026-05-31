@@ -125,4 +125,8 @@ To run all three notebooks successfully:
   - `Problem & Visualization/Problem 2/Problem_2.ipynb`
   - `Problem & Visualization/Problem 3/Problem_3.ipynb`
 - Question 3 is configured to use the local audio dataset in `Data/q3/`
+- To download the Question 3 audio data, run `bash Data/q3/download_data.sh`
+- After downloading, make sure the files are available in:
+  - `Data/q3/music/`
+  - `Data/q3/noise/`
 - If you use Jupyter or VS Code, restart the kernel and run all cells from top to bottom
