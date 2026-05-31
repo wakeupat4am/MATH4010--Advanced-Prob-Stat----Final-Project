@@ -1,0 +1,11 @@
+# Core notebook dependencies
+numpy==2.4.4
+pandas==3.0.2
+matplotlib==3.10.8
+scipy==1.17.1
+
+# Question 2
+arviz==1.1.0
+
+# Question 3 data download helper
+gdown==6.1.0
